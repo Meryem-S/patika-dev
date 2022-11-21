@@ -1,0 +1,50 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+
+.item{
+    text-align: center;
+}
+
+
+.container{
+    margin: 8px;
+    display: grid;
+    grid-template: 113px 67px 70px / 330px 200px 340px;
+    grid-gap: 1px 1px;
+    justify-content:center;
+    grid-template-areas:
+        "header header header"
+        "searchbar searchbar searchbar"
+        "special helpbar get"
+}
+
+.item-1{
+    grid-area: header;
+    background: #fff;
+}
+
+.item-2{
+    grid-area: searchbar;
+    font-size:16px;
+    background: #EEEEEE;
+}
+
+.item-3{
+    grid-area: special;
+    font-size:16px;
+    background: #7EE5DA;
+}
+
+.item-4{
+    grid-area: helpbar;
+    font-size:14px;
+    background: #70CCC2;
+}
+
+.item-5{
+    grid-area: get;
+    font-size:13px;
+    background: #62B3AA;
+}
