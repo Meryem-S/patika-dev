@@ -1,11 +1,12 @@
-# Kodluyoruz Ödev 2
+# Kodluyoruz Ödev 1
 
 Bu [Kodluyoruz](https://kodluyoruz.org) Front-End eğitiminde oluşturduğumuz html ödevidir.
 ## Installation
 
 Kendimizi tanıttığımız bir site içeriğine saptir.
 
-![odev2](https://user-images.githubusercontent.com/104515017/204517622-3c5dfb99-dafe-4bcf-b073-d055c4f34ecd.png)
+![odev1](https://user-images.githubusercontent.com/104515017/204519570-f01717f2-2809-4fad-ac33-8180db8b38bf.png)
+
 
 ## Projenin amacı
 
